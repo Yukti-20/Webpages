@@ -1,2 +1,2 @@
 # Webpages
-It has some webpages.
+It has some webpages. The homepage is saved with name index.html
